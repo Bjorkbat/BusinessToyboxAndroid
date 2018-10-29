@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Business Toybox</string>
+    <string name="auth_prefs_key">ToyboxAuth</string>
+</resources>
